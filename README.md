@@ -18,4 +18,4 @@ Accuracy is one metric for evaluating classification models.
 
 Where TP = True Positives, TN = True Negatives, FP = False Positives, and FN = False Negatives.
 
-After fitting the model on dataset upon Jupyter Notebook, the Accuracy comes out to 0.9157, or 91.57%. That means our model is doing a great job of identifying Fake news
+After fitting the model on dataset upon Jupyter Notebook, the Accuracy comes out to 0.9157, or 91.57%. That means our model is doing a great job of identifying Fake news.
