@@ -13,6 +13,7 @@ Aims to use Natural Language Processing to detect fake news directly, based on t
 - LSTM is a recurrent neural network (RNN) architecture that REMEMBERS values over arbitrary intervals. LSTM is well-suited to classify, process and predict time series given time lags of unknown duration. Relative insensitivity to gap length gives an advantage to LSTM over alternative RNNs, hidden Markov models and other sequence learning methods.
 ## Result
 Accuracy is one metric for evaluating classification models.
+
 ![deepchecks-post-img2](https://user-images.githubusercontent.com/85990319/183291252-83a409b2-d9d6-4460-9a46-295715471071.png)
 Where TP = True Positives, TN = True Negatives, FP = False Positives, and FN = False Negatives.
 After fitting the model on dataset upon Jupyter Notebook, the Accuracy comes out to 0.9157, or 91.57%. That means our model is doing a great job of identifying Fake news
