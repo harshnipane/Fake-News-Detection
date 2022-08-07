@@ -11,3 +11,5 @@ Aims to use Natural Language Processing to detect fake news directly, based on t
 ## Model
 - A Sequential model is appropriate for a plain stack of layers where each layer has exactly one input tensor and one output tensor.
 - LSTM is a recurrent neural network (RNN) architecture that REMEMBERS values over arbitrary intervals. LSTM is well-suited to classify, process and predict time series given time lags of unknown duration. Relative insensitivity to gap length gives an advantage to LSTM over alternative RNNs, hidden Markov models and other sequence learning methods.
+## Result
+After fitting the model on dataset upon Jupyter Notebook, the Accuracy comes out to 0.9157, or 91.57%. That means our model is doing a great job of identifying Fake news
